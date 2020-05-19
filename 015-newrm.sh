@@ -55,4 +55,4 @@ done
 exec $realrm $flags "$@"	# our shell is replaced by realrm
 
 
-.
+
